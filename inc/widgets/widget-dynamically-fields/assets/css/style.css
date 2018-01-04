@@ -1,0 +1,17 @@
+.widget_dynamically_fields_elements{
+    position: relative;
+}
+.widget_dynamically_fields_elements input{
+    width: 97%;
+}
+.widget_dynamically_fields_elements .wd-remove-text-field{
+    position: absolute;
+    right: -8px;
+    bottom: 3px;
+    cursor: pointer;
+    transition: all ease-out .3s;
+    color: #ddd;
+}
+.widget_dynamically_fields_elements .wd-remove-text-field:hover{
+    color: #444;
+}
